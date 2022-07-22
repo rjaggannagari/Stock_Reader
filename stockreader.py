@@ -1,7 +1,10 @@
-# Import statements for this project
+# yfinance is where we get the data
 import yfinance
+# allows us to get time
 import datetime
+# makes it easier to read the data and manipulate it
 import pandas
+# how we graph the data
 import plotly.graph_objs
 
 # Each stock on yahoo finance has an acronym
